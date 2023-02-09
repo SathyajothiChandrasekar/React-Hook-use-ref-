@@ -1,4 +1,4 @@
-import { React, useRef, useEffect } from "react";
+import { React, useRef } from "react";
 
 export const StyleElement = () => {
   const colourParagraph = useRef(null);
